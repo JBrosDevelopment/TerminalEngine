@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Title>Terminal Engine</Title>
+    <Authors>JBros Development</Authors>
+    <Description>An engine to make it easy to use the console as a way of displaying pixels</Description>
+    <Copyright>MIT Lisence</Copyright>
+  </PropertyGroup>
+	  
+</Project>
