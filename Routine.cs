@@ -1,4 +1,4 @@
-﻿namespace Main
+﻿namespace TerminalEngine
 {
     public struct Axis(ConsoleKey[] positive, ConsoleKey[] negative, float step = 1, float defaultValue = 0)
     {

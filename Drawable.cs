@@ -1,4 +1,4 @@
-﻿namespace Main
+﻿namespace TerminalEngine
 {
     public interface IDrawable
     {

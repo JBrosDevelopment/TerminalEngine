@@ -1,5 +1,5 @@
 ﻿#pragma warning disable IDE1006 // Naming Styles
-namespace Main
+namespace TerminalEngine
 {
     public class Pixel(char c, int index, ConsoleColor color)
     {

@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Versioning;
 
-namespace Main
+namespace TerminalEngine
 {
     public struct Position(int x, int y)
     {
