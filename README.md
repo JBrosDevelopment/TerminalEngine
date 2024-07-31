@@ -44,6 +44,6 @@ public class Program
 
 It surprisingly really works, it's just slow at some points, but it is smooth. It uses the cursor in the console to display the character `\u2588` at column, row. With this method, anything that isn't being drawn every frame, won't flicker.
 
-Look at the [pong example](https://github.com/JBrosDevelopment/TerminalEngine/Examples/Pong/) to see how it works.
+Look at the [pong example](https://github.com/JBrosDevelopment/TerminalEngine/master/Examples/Pong/) to see how it works.
 
 ![Pong](https://raw.githubusercontent.com/JBrosDevelopment/TerminalEngine/master/Examples/Pong/playing.png)
